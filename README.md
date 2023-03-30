@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **regnna/regnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +18,9 @@ Here are some ideas to get you started:
 
 <p>Let's check it first</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=regnna&label=Profile%20views&color=0e75b6&style=flat" alt="regnna" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=regnna&label=Profile%20views&color=0e75b6&style=flat" alt="regnna" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regnna" alt="regnna" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regnna" alt="regnna" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/knobodykares" target="blank"><img src="https://img.shields.io/twitter/follow/knobodykares?logo=twitter&style=for-the-badge" alt="knobodykares" /></a> </p>
 
