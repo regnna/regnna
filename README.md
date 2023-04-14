@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm Ritam(Ritam Chatterjee)</h1>
-<h3 align="center">Machine Learning Enthusiast | AI devotee | Problem Solver | Front-end Developer | Python Developer | spring-boot seasoned</h3>
+<h3 align="center">Machine Learning Enthusiast | AI Devotee | Problem Solver | Front-End Developer | Python Developer | Spring-Boot Seasoned</h3>
 
 <p>Let's check it first</p>
 
