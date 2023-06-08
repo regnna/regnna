@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Ritam(Ritam Chatterjee)</h1>
 <h3 align="center">Machine Learning Enthusiast | AI Devotee | Problem Solver | Front-End Developer | Python Developer | Spring-Boot Seasoned</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=regnna&label=Profile%20views&color=0e75b6&style=flat" alt="Regnna" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regnna" alt="Ritam Chatterjee" /></a> </p>
+
 <!-- <p>Let's check it first</p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=regnna&label=Profile%20views&color=0e75b6&style=flat" alt="regnna" /> </p> -->
