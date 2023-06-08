@@ -42,17 +42,17 @@ Here are some ideas to get you started:
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regnna&show_icons=true&locale=en&layout=compact" alt="prasadsgh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regnns&show_icons=true&locale=en" alt="prasadsgh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regnna&show_icons=true&locale=en" alt="prasadsgh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regnna&" alt="prasadsgh" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=regnna&show_icons=true&locale=en&layout=compact&theme=radical" alt="regnna" /></p> -->
 <!-- &nbsp -->
 <!-- &nbsp -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regnna&show_icons=true&locale=en&theme=radical" alt="regnna" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regnna&show_icons=true&locale=en&theme=radical" alt="regnna" /></p> -->
 
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regnna&" alt="regnna" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regnna&" alt="regnna" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regnna&label=Profile%20views&color=0e75b6&style=flat" alt="Regnna" /> </p>
 
