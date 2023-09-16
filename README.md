@@ -77,6 +77,10 @@ Here are some ideas to get you started:
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regnna&" alt="regnna" /></p> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regnna&label=Profile%20views&color=0e75b6&style=flat" alt="Regnna" /> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img width=800 src="https://github-profile-trophy.vercel.app/?username=regnna&theme=monokai&row=1"/>
+</a>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=regnna](https://github-profile-trophy.vercel.app/?username=regnna&theme=onedark&row=1)" alt="Ritam Chatterjee" /></a> </p>-->
 
