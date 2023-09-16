@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there <img src="https://media.giphy.com/media/RgbO1w92kxLC3aIfSH/giphy.gif" width="50"></h1>
 <h1 align="center"> I'm Ritam Chatterjee at your service </h1>
 <h3 align="center">Machine Learning Enthusiast | AI Devotee | Problem Solver | Front-End Developer | Python Developer | Spring-Boot Seasoned</h3>
-<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" height='250'>
+<br>
+
+<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" height='300'>
 
 
 <!-- <p>Let's check it first</p> -->
@@ -34,7 +36,6 @@ Here are some ideas to get you started:
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/ritmchattrg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ritmchattrg" height="30" width="40" /></a>
 </p> -->
-<br>
 
 - 🌱 I’m currently learning **Machine Learning** 📊
 
