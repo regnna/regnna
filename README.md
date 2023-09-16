@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> , I'm Ritam(Ritam Chatterjee)</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there  <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">, I'm Ritam</h1>
 <h3 align="center">Machine Learning Enthusiast | AI Devotee | Problem Solver | Front-End Developer | Python Developer | Spring-Boot Seasoned</h3>
 
 
@@ -43,7 +43,15 @@ Here are some ideas to get you started:
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/ritmchattrg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ritmchattrg" height="30" width="40" /></a>
 </p> -->
+- 🌱 I’m currently learning **Machiine Learning 📊**
 
+- 💬 Ask me about **How AI will conquer Human society**
+
+- 📫 How to reach me **ritmchats@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/10kw40lPIfI21bUk2AQ-__KkEfQsl3G_q/edit?usp=drive_link&ouid=107050676708289186911&rtpof=true&sd=true)
+
+- ⚡ Fun fact **I think I am Funny😂**
 
 
 
