@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/Regnna/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="30" width="30"/></a>
 </p>
 
-<h2 align="center">Github Stats</h2>
+<h1 align="center">Github Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regnna&show_icons=true&locale=en&layout=compact" alt="prasadsgh" width="350" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regnna&show_icons=true&locale=en" alt="prasadsgh" /></p>
