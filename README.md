@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/knobodykares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="www.twitter.com/rishikr_twt" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ritmchttrg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritmchttrg" height="40" width="40" /></a>
-<a href="https://www.instagram.com/ritmchat_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ritmchat_ig/" height="40" width="40" /></a>
+<a href="https://www.instagram.com/ritmchats_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ritmchat_ig/" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/ritmchat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rishikumar15" height="40" width="40" /></a>
 <a href="https://leetcode.com/Regnna/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40" width="40"/></a>
 </p>
