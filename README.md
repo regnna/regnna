@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regnna" alt="prasadsgh" width="270" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=regnna&show_icons=true&locale=en" alt="prasadsgh" /></p>
-
-<p align='center' ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regnna&" alt="prasadsgh" /></p>
+<br>
+<p align='right' ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regnna&" alt="prasadsgh" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=regnna&show_icons=true&locale=en&layout=compact&theme=radical" alt="regnna" /></p> -->
 <!-- &nbsp -->
 <!-- &nbsp -->
