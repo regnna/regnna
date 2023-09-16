@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think I am Funny😂**
 
-- 👨‍💻 Check out my [personal Portfolio](https://ritam-on-the-web.netlify.app/)
+- 👨‍💻 Check out my [Portfolio Website](https://ritam-on-the-web.netlify.app/)
 
 <br>
 <h2 align="center">Connect with me :)</h2>
