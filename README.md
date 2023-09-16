@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/ritmchattrg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ritmchattrg" height="30" width="40" /></a>
 </p> -->
-<h3 align="center">
-- 🌱 I’m currently learning **Machiine Learning 📊**
+
+- 🌱 I’m currently learning **Machiine Learning** 📊
 
 - 💬 Ask me about **How AI will conquer Human society**
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think I am Funny😂**
 
-</h3>
+
 <h2 align="center">Connect with me :)</h2>
 <p align="center">
 <!--   <br> -->
