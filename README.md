@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h1 align="center">Connect with me :)</h1>
+<h2 align="center">Connect with me :)</h2>
 <p align="center">
 <!--   <br> -->
 <p align="center">
