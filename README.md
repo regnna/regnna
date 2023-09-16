@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi there <img src="https://media.giphy.com/media/RgbO1w92kxLC3aIfSH/giphy.gif" width="50"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> Hi there <img src="https://media.giphy.com/media/RgbO1w92kxLC3aIfSH/giphy.gif" width="70"></h1>
 <h1 align="center"> I'm Ritam Chatterjee at your service </h1>
 <h3 align="center">Machine Learning Enthusiast | AI Devotee | Problem Solver | Front-End Developer | Python Developer | Spring-Boot Seasoned</h3>
 <br>
