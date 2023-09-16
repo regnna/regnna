@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ritmchattrg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ritmchattrg" height="30" width="40" /></a>
 </p> -->
 
-- 🌱 I’m currently learning **Machiine Learning** 📊
+- 🌱 I’m currently learning **Machine Learning** 📊
 
-- 💬 Ask me about **How AI will conquer Human society**
+- 💬 Ask me about **How AI will conquer the Human society**
 
 - 📫 How to reach me **ritmchats@gmail.com**
 
