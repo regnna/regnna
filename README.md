@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Machine Learning Enthusiast | AI Devotee | Problem Solver | Front-End Developer | Python Developer | Spring-Boot Seasoned</h3>
 <br>
 
-<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" height='300'>
+<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="450" height='270'>
 
 
 <!-- <p>Let's check it first</p> -->
