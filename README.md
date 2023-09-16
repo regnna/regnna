@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=regnna&show_icons=true&locale=en" alt="prasadsgh" width="500"/></p>
 <br/>
 <br/>
-<p align='right' ><img align="https://github-readme-streak-stats.herokuapp.com/?user=regnna&theme=monokai" alt="Ritam" /></p>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=monokai)](https://git.io/streak-stats) -->
+<!-- <p align='right' ><img align="https://github-readme-streak-stats.herokuapp.com/?user=regnna&theme=monokai" alt="Ritam" /></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=regnna&theme=monokai)](https://git.io/streak-stats)
 <!-- <p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=regnna&show_icons=true&locale=en&layout=compact&theme=radical" alt="regnna" /></p> -->
 <!-- &nbsp -->
 <!-- &nbsp -->
