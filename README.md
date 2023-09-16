@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 
-## Github Stats
+<h2 align="center">Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regnna&show_icons=true&locale=en&layout=compact" alt="prasadsgh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regnna&show_icons=true&locale=en" alt="prasadsgh" /></p>
