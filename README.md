@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning** 📊
 
-- 💬 Ask me about **How AI will conquer Human race**
+- 💬 Ask me **How AI will conquer Human race**
 
 - 📫 How to reach me **ritmchats@gmail.com**
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Check out my [Portfolio Website](https://ritam-on-the-web.netlify.app/)
 
 <br>
-<h2 align="center">Connect with me :)</h2>
+<h1 align="center">Connect with me :)</h1>
 <p align="center">
 <!--   <br> -->
 <p align="center">
