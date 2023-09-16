@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning** 📊
 
-- 💬 Ask me about **How AI will conquer the Human society**
+- 💬 Ask me about **How AI will conquer Human race**
 
 - 📫 How to reach me **ritmchats@gmail.com**
 
