@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> Hi there <img src="https://media.giphy.com/media/RgbO1w92kxLC3aIfSH/giphy.gif" width="70"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> Hi there <img src="https://media.giphy.com/media/RgbO1w92kxLC3aIfSH/giphy.gif" width="80"></h1>
 <h1 align="center"> I'm Ritam Chatterjee at your service </h1>
 <h3 align="center">Machine Learning Enthusiast | AI Devotee | Problem Solver | Front-End Developer | Python Developer | Spring-Boot Seasoned</h3>
 <br>
@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 <p align="center">
 <!--   <br> -->
 <p align="center">
-<a href="https://twitter.com/knobodykares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="www.twitter.com/rishikr_twt" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/ritmchttrg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritmchttrg" height="40" width="40" /></a>
-<a href="https://www.instagram.com/ritmchats_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ritmchat_ig/" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/ritmchat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rishikumar15" height="40" width="40" /></a>
-<a href="https://leetcode.com/Regnna/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40" width="40"/></a>
+<a href="https://twitter.com/knobodykares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="www.twitter.com/rishikr_twt" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ritmchttrg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritmchttrg" height="30" width="30" /></a>
+<a href="https://www.instagram.com/ritmchats_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ritmchat_ig/" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/ritmchat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rishikumar15" height="30" width="30" /></a>
+<a href="https://leetcode.com/Regnna/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="30" width="30"/></a>
 </p>
 
 <h2 align="center">Github Stats</h2>
