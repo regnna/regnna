@@ -80,7 +80,10 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2 align='center'>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy" align='center'>
+   <p align="center">
+   
    <img width=800 src="https://github-profile-trophy.vercel.app/?username=regnna&theme=monokai&row=1"/>
+   </p>
 </a>
 </p>
 
