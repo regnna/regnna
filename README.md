@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regnna" alt="Ritam Chatterjee" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=regnna&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=regnna&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Snake animation](https://github.com/regnna/regnna/blob/output/github-contribution-grid-snake.svg)
 
