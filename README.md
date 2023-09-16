@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/ritmchattrg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ritmchattrg" height="30" width="40" /></a>
 </p> -->
+<br>
 
 - 🌱 I’m currently learning **Machine Learning** 📊
 
