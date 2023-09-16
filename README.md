@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regnna&label=Profile%20views&color=0e75b6&style=flat" alt="Regnna" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regnna" alt="Ritam Chatterjee" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=regnna](https://github-profile-trophy.vercel.app/?username=regnna&theme=onedark&row=1)" alt="Ritam Chatterjee" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=regnna&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
