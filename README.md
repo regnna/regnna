@@ -96,6 +96,14 @@ Here are some ideas to get you started:
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=regnna](https://github-profile-trophy.vercel.app/?username=regnna&theme=onedark&row=1)" alt="Ritam Chatterjee" /></a> </p>-->
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/regnna/regnna/output/snake.svg" alt="Snake animation" />
+
+###
+
 ![snake gif](https://github.com/regnna/regnna/blob/output/github-contribution-grid-snake.gif)
 
 
