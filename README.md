@@ -90,7 +90,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 <h1 align='center'>Leetcode Geek</h1>
-<p align='center'><img src='https://leetcard.jacoblin.cool/regnna?theme=unicorn&font=Baloo%20Paaji%202&ext=activity' /></p>
+<p align='center'><img src='https://leetcard.jacoblin.cool/regnna?theme=unicorn&font=Baloo%20Paaji%202&ext=activity' /></p
+![LeetCode Stats](https://leetcard.jacoblin.cool/regnna?theme=dark&font=BIZ%20UDMincho&ext=activity)
 
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=regnna](https://github-profile-trophy.vercel.app/?username=regnna&theme=onedark&row=1)" alt="Ritam Chatterjee" /></a> </p>-->
