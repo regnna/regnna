@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </p>
 <h1 align='center'>Leetcode Geek</h1>
 <p align='center'><img src='https://leetcard.jacoblin.cool/regnna?theme=unicorn&font=Baloo%20Paaji%202&ext=activity' /></p>
-![Leetcode Stats](https://leetcard.regnna/lapor?ext=contest)
+
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=regnna](https://github-profile-trophy.vercel.app/?username=regnna&theme=onedark&row=1)" alt="Ritam Chatterjee" /></a> </p>-->
 
